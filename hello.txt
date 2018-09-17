@@ -1,2 +1,1 @@
-hello
-hi_there
+hello_jerry
